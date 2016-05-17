@@ -1,7 +1,6 @@
 #include <iostream>
 #include <sstream>
 
-
 using namespace std;
 
 class profesion
@@ -78,7 +77,5 @@ int main()
 {
     musico musico1("angel",5,"violin", "clasica",18 );
     cout <<musico1.tostring();
-
-
     return 0;
 }
